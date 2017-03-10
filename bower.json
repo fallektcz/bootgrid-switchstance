@@ -1,0 +1,13 @@
+{
+  "name": "bootgrid-switchstance",
+  "authors": [
+    "Switchstance"
+  ],
+  "description": "jQuery bootgrid plugin by Rafael Staib modified by Switchstance",
+  "main": "bootgrid.switchstance.js",
+  "license": "MIT",
+  "homepage": "http://switchstance.agency"
+  "dependencies" : {
+    "jquery": "^2.2.3"
+  }
+}
