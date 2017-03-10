@@ -6,7 +6,7 @@
   ],
   "description": "jQuery bootgrid plugin by Rafael Staib modified by Switchstance",
   "main": "bootgrid.switchstance.js",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "jquery": "^2.2.3"
   }
